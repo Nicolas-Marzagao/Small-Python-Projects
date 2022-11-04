@@ -1,0 +1,8 @@
+A fan project developed in a day, there are sevral optimazations that can still be made.
+
+Made in Python 3.10.7.
+
+No dependencies other than python needed.
+
+Original code from:
+  https://inventwithpython.com/bigbookpython/project1.html
