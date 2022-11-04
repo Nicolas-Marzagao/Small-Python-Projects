@@ -1,4 +1,4 @@
-A fan project developed in a day, there are sevral optimazations that can still be made.
+A fan project developed in a day, there are several optimizations that can still be made.
 
 Made in Python 3.10.7.
 
